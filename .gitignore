@@ -1,0 +1,7 @@
+*.xcodeproj
+*/DerivedData
+*/Build
+*.noindex
+*.out
+*.DS_Store
+*.vscode
